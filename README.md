@@ -22,7 +22,7 @@ Migrate:
 
 And then start the server (default: http://localhost:8000)
 
-    python manage.py runserver
+    python manage.py runserver 0.0.0.0:8000
 
 
 Now you can browse the [API](http://localhost:8000/api/)
